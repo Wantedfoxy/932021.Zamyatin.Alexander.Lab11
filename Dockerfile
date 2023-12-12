@@ -10,3 +10,4 @@ COPY /vendor /var/www/vendor
 ARG USER=www-data
 RUN mkdir -p /var/www/var/cache \
     &&  chown -R ${USER}:${USER} /var/www/var;
+USER $USER:$USER
