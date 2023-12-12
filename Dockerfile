@@ -7,7 +7,6 @@ RUN apt-get update \
     && curl --silent --show-error "https://getcomposer.org/installer" | php -- --install-dir=/usr/local/bin --filename=composer
 
 COPY /vendor /var/www/vendor
-
+ARG USER=www-data
 RUN mkdir -p /var/www/var/cache \
-    &&  chown -R www-data:www-data /var/www/var \
-    && chmod -R 777 /var/www
+    &&  chown -R ${USER}:${USER} /var/www/var;
