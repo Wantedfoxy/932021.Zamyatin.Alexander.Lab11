@@ -21,7 +21,7 @@
 1) Установить composer по инструкции с официального сайта: https://getcomposer.org/download/
 2) Установить docker по инструкции с официального сайта: https://docs.docker.com/engine/install/
 3) Открыть докер и дождаться его запуска, должно открыться следующее окно:
-![image](https://github.com/Wantedfoxy/932021.Zamyatin.Alexander.Lab11/assets/50704060/d65b64b0-11af-466b-b850-5a5f0f587379)
+![image](https://github.com/Wantedfoxy/932021.Zamyatin.Alexander.Lab11/assets/50704060/191f2e21-e11f-4ebb-b642-289863e8a0d4)
 4) Склонировать данный репозиторий через консоль, предварительно убедитесь, что вами выбрана верня директория <br>
 (`git clone https://github.com/Wantedfoxy/932021.Zamyatin.Alexander.Lab11.git`)
 5) `cd 932021.Zamyatin.Alexander.Lab11`
