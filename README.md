@@ -22,7 +22,7 @@
 2) Установить docker по инструкции с официального сайта: https://docs.docker.com/engine/install/
 3) Открыть докер и дождаться его запуска, должно открыться следующее окно:
 ![image](https://github.com/Wantedfoxy/932021.Zamyatin.Alexander.Lab11/assets/50704060/191f2e21-e11f-4ebb-b642-289863e8a0d4)
-4) Склонировать данный репозиторий через консоль, предварительно убедитесь, что вами выбрана верня директория <br>
+4) Склонировать данный репозиторий через терминал PhpStorm, либо консоль, предварительно убедитесь, что вами выбрана верня директория <br>
 (`git clone https://github.com/Wantedfoxy/932021.Zamyatin.Alexander.Lab11.git`)
 5) `cd 932021.Zamyatin.Alexander.Lab11`
 6) `composer update`
