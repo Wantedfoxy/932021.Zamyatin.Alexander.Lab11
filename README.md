@@ -28,4 +28,7 @@
 6) `composer update`
 7) `composer install`
 8) `docker compose up --build -d`
-9) Открыть `http://localhost:2003`
+9) `docker exec -it uca-php bash`
+10) `chmod -R 777 /var/www`
+11) Открыть `http://localhost:2003`
+
